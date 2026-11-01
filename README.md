@@ -11,7 +11,7 @@ Computer Science senior at Grand Canyon University (graduating April 2027, GPA 3
 - **Disneyland review analytics**: 42,000 reviews analyzed in BigQuery with Tableau dashboards. [repo](https://github.com/emmabellerogo/disneyland-reviews-analytics)
 
 ## Tools
-Python · PyTorch · TensorFlow · FastAPI · Streamlit · SQL / PostgreSQL · C / C++ · React · Docker · Git · Claude Code · Codex · GitHub Copilot
+Python · PyTorch · TensorFlow · FastAPI · Streamlit · SQL / PostgreSQL · C / C++ · React · Docker · Git · Claude Code · Codex · GitHub Copilot · Ada / SPARK
 
 ## Research
 Co-authored "Modeling a Network Processor by Using Differential Equations" (IEEE Xplore), presented at IEEE SoutheastCon 2026.
