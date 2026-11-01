@@ -1,4 +1,4 @@
-# Hi, I'm Emma 👋
+# Hi, I'm EMMA!!
 
 Computer Science senior at Grand Canyon University (graduating April 2027, GPA 3.95), specializing in Big Data Analytics. I build and deploy AI-assisted tools, check their output against real data, and explain the results in plain language. Currently an Engineering Knowledge Intern at PING, where I build internal tools.
 
